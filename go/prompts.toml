@@ -1,0 +1,4 @@
+[[prompt]]
+name = "ExampleString"
+prompt = "Please input an example string"
+default = "Hello World"
