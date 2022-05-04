@@ -1,4 +1,9 @@
 [[prompt]]
+name = "ProjectName"
+prompt = "Please input a project name"
+default = "goexample"
+
+[[prompt]]
 name = "ExampleString"
 prompt = "Please input an example string"
 default = "Hello World"
